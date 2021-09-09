@@ -1,0 +1,1 @@
+This directory is to help complete the 0x03-git portion of the first couple of projects.
